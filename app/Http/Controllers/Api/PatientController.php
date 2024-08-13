@@ -25,8 +25,6 @@ class PatientController extends Controller
                 ->with('latestBatteryPercentage')
                 ->get();
 
-
-            // dd($patientData);
             $patientData->each(function ($user) {
 
                 $user->updated_date_ist = Carbon::parse($user->updated_date)

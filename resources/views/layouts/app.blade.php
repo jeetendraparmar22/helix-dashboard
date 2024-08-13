@@ -9,7 +9,7 @@
     <meta name="author" content="" />
     <link rel="icon" href="images/favicon.ico" />
 
-    <title>Helix - Dashboard</title>
+    <title>Agnise - Dashboard</title>
 
     <!-- Vendors Style-->
     <link rel="stylesheet" href="{{ asset('css/vendors_css.css') }}" />
