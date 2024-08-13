@@ -150,7 +150,7 @@
                                 </div>
                             </div>
                             <div class="mt-10">
-                                <a href="reports.html"
+                                <a href=""
                                     class="waves-effect waves-light w-p100 btn text-start btn-warning-light">Illness
                                     History
                                     <i class="ti-arrow-right pull-right fs-20"></i></a>
@@ -174,7 +174,7 @@
                                 </div>
                             </div>
                             <div class="mt-10">
-                                <a href="reports.html"
+                                <a href=""
                                     class="waves-effect waves-light w-p100 btn text-start btn-warning-light">Illness
                                     History
                                     <i class="ti-arrow-right pull-right fs-20"></i></a>
@@ -196,7 +196,7 @@
                                 </div>
                             </div>
                             <div class="mt-10">
-                                <a href="reports.html"
+                                <a href=""
                                     class="waves-effect waves-light w-p100 btn text-start btn-warning-light">Illness
                                     History
                                     <i class="ti-arrow-right pull-right fs-20"></i></a>
@@ -218,7 +218,7 @@
                                 </div>
                             </div>
                             <div class="mt-10">
-                                <a href="reports.html"
+                                <a href=""
                                     class="waves-effect waves-light w-p100 btn text-start btn-warning-light">Illness
                                     History
                                     <i class="ti-arrow-right pull-right fs-20"></i></a>
@@ -255,7 +255,7 @@
                                 </div>
                             </div>
                             <div class="mt-10">
-                                <a href="reports.html"
+                                <a href=""
                                     class="waves-effect waves-light w-p100 btn text-start btn-warning-light">Illness
                                     History
                                     <i class="ti-arrow-right pull-right fs-20"></i></a>
@@ -290,7 +290,7 @@
                                 </div>
                             </div>
                             <div class="mt-10">
-                                <a href="reports.html"
+                                <a href=""
                                     class="waves-effect waves-light w-p100 btn text-start btn-warning-light">Illness
                                     History
                                     <i class="ti-arrow-right pull-right fs-20"></i></a>
@@ -325,7 +325,7 @@
                                 </div>
                             </div>
                             <div class="mt-10">
-                                <a href="reports.html"
+                                <a href=""
                                     class="waves-effect waves-light w-p100 btn text-start btn-warning-light">Illness
                                     History
                                     <i class="ti-arrow-right pull-right fs-20"></i></a>
